@@ -1,0 +1,9 @@
+.forCenter{
+    background-color: #111;
+    color: white;
+    top: 0;
+    width: 99vw;
+    min-height: 100vh;
+   display: flex;
+   position: sticky;
+}
